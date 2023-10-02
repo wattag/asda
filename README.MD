@@ -12,5 +12,5 @@
 * Выполнил студент: Иванов Иван
 * Проверил: Литвинов И.В.
 
-$sdfsdfsd 
-$dsfdfsd
+        $ git clone https://github.com/wattag/smtchfeedback.git
+        $ cd "папка сервера"
