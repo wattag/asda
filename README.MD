@@ -4,7 +4,7 @@
 
 <p><img src="https://s0.rbk.ru/v6_top_pics/media/img/7/19/756752350085197.webp" width = "350"></p>
 
-<p><a href="https://proglib.io/p/git-cheatsheet"></a></p>
+<p><a href="https://proglib.io/p/git-cheatsheet">CCЫЛКА</a></p>
 
 -----
 
